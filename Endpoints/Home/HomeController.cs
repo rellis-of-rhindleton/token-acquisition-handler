@@ -2,8 +2,8 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using WebApi.Core.MicrosoftGraph;
-using WebApi.Core.TokenAcquisition;
+using WebApi.MicrosoftGraph;
+using WebApi.TokenAcquisition;
 
 namespace WebApi.Endpoints.Home
 {

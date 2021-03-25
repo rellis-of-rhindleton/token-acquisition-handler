@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Logging;
 
-namespace WebApi.Core.MicrosoftGraph
+namespace WebApi.MicrosoftGraph
 {
     /// <summary>
     /// Wraps MicrosoftGraphService to cache current user info.

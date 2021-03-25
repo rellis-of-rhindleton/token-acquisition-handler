@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace WebApi.Core.TokenAcquisition
+namespace WebApi.TokenAcquisition
 {
     public static class ServiceCollectionExtensions
     {

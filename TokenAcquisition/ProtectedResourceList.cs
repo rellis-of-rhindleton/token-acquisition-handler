@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Identity.Web;
 
-namespace WebApi.Core.TokenAcquisition
+namespace WebApi.TokenAcquisition
 {
     public class ProtectedResourceList
     {

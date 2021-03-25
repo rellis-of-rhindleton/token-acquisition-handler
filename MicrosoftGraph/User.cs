@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.Json.Serialization;
 
-namespace WebApi.Core.MicrosoftGraph
+namespace WebApi.MicrosoftGraph
 {
     public class User
     {

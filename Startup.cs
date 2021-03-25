@@ -8,8 +8,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Identity.Web;
 using Microsoft.OpenApi.Models;
-using WebApi.Core.MicrosoftGraph;
-using WebApi.Core.TokenAcquisition;
+using WebApi.MicrosoftGraph;
+using WebApi.TokenAcquisition;
 
 namespace WebApi
 {

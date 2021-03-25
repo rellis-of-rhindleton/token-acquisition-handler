@@ -4,7 +4,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.Identity.Web;
 
-namespace WebApi.Core.TokenAcquisition
+namespace WebApi.TokenAcquisition
 {
     /// <summary>
     /// Acquires access tokens and adds them as Authorization headers to outgoing requests.
