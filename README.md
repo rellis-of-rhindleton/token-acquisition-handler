@@ -16,7 +16,7 @@ Access tokens are retrieved by a DelegatingHandler.
 },
 "DownstreamApiB": {
     "BaseUrl": "https://acmewidgets.com/api/userprefs/",
-    "Scopes": "api://acmewidgets.com/scope1 api://acmewidgets.com/scope2 api://acmewidgets.com/scope3"
+    "Scopes": "api://acmewidgets.com/scope1 api://acmewidgets.com/scope2 api://acmewidgets.com/scope3",
     "AuthenticationFlow": "OnBehalfOf"
 }
 ```
